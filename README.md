@@ -3,5 +3,5 @@
 I will probably try to practice C programming. :)
 
 ### Copy the Makefile into the directory of the problem you want to run:
-`$ make run F=file_name.c`
-$ make runa F=file_name.c A="arg1 arg2"
+- `$ make run F=file_name.c`
+- `$ make runa F=file_name.c A="arg1 arg2"`
